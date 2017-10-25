@@ -1,4 +1,4 @@
-#Git and GitHub e-Portfolio
+# Git and GitHub e-Portfolio
 This repository contains all the material you need to follow along with my talk and to get started with your git training.
 So why don't you take a look?
 
